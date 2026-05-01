@@ -2,37 +2,19 @@
 
 # 👋 Hey, I'm Satwik Telang
 
-🎯 **AI/ML-focused Software Engineer in the making**  
-📊 Building real-world, data-driven applications using Machine Learning  
+**AI/ML-focused Software Engineer in the making**  
+Building real-world, data-driven applications using Machine Learning  
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me :)
 
 - 🎓 Computer Science student specializing in **AI & Machine Learning**
 - 🧠 Focused on building **end-to-end intelligent systems**
 - 💡 Projects in **Fitness AI, NLP, and Computer Vision**
 - ⚡ Exploring **scalable ML systems & real-world deployment**
-
----
-
-## 🔥 Featured Projects
-
-### 💪 FitForge — AI Fitness Planner
-- ML-powered system for **calorie estimation + workout/diet generation**
-- Built using **Random Forest + Streamlit**
-- Achieved **R² Score: 0.97**
-
-### 📄 Resume Screener AI
-- NLP-based ATS system using **TF-IDF + Cosine Similarity**
-- Compares resumes with job descriptions
-- Detects missing keywords & gives match score
-
-### 👁️ Face Recognition System
-- Detects and identifies faces using **OpenCV & Deep Learning**
-- Supports multi-image training for better accuracy
 
 ---
 
@@ -58,7 +40,7 @@
 
 ---
 
-## 📊 What I Focus On
+## 📊 What Im Focusing On
 
 - Machine Learning Applications  
 - AI-powered Systems  
@@ -76,6 +58,6 @@
 
 <div align="center">
 
-⚡ *Building. Learning. Improving — one project at a time.*
+⚡ *Building. Learning. Improving.*
 
 </div>
