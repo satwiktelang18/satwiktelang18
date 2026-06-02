@@ -11,10 +11,10 @@ Building real-world, data-driven applications using Machine Learning
 
 ## About Me :)
 
-- 🎓 Computer Science student specializing in **AI & Machine Learning**
-- 🧠 Focused on building **end-to-end intelligent systems**
-- 💡 Projects in **Fitness AI, NLP, and Computer Vision**
-- ⚡ Exploring **scalable ML systems & real-world deployment**
+- Computer Science student specializing in **AI & Machine Learning**
+- Focused on building **end-to-end intelligent systems**
+- Projects in **Fitness AI, NLP, and Computer Vision**
+- Exploring **scalable ML systems & real-world deployment**
 
 ---
 
