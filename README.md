@@ -38,21 +38,16 @@ I am a Computer Science Engineering student dedicated to bridging the gap betwee
 
 *(Replace these placeholders with your actual project links)*
 
-*   **[Project Name]** | *Tech Stack: Java, Spring Boot, MySQL*
-    *   Developed a scalable [type of app] that optimized [process] by [X]%.
-    *   Implemented RESTful APIs to handle [number] concurrent requests.
-*   **[AI Model Name]** | *Tech Stack: Python, Scikit-Learn, Streamlit*
-    *   Built an ML-powered [prediction/analysis] system with [X]% accuracy.
-    *   Deployed an interactive web interface for real-time inference.
+### FitForge
+> AI-powered fitness planning platform generating personalized workout and nutrition plans.
+
+### TweetSense 
+> Twitter Sentiment Analysis using Machine Learning
+
+### NexoraSpace
+> RAG-based AI assistant supporting PDFs, web search, vector search, and streaming responses.
 
 ---
-
-## 📈 GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satwiktelang18&theme=radical)
-
----
-
-<div align="center">
 
 ### 🤝 Let's Connect
 *Seeking internship and entry-level Software Engineering opportunities.*
