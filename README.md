@@ -14,8 +14,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://your-portfolio.com)
 
-![](https://komarev.com/ghpvc/?username=satwiktelang18&style=for-the-badge)
-
 </div>
 
 ---
