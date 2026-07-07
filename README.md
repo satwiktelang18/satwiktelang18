@@ -8,11 +8,6 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satwiktelang18)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/satwiktelang18)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/satwiktelang18)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
 </div>
 
 ---
@@ -157,16 +152,6 @@ Retrieval-Augmented Generation (RAG) AI Assistant capable of answering questions
 
 ---
 
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=satwiktelang18&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</p>
-
----
-
 # Let's Connect 🤝🏻
 
 
@@ -178,7 +163,7 @@ Feel free to connect! ✨
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:satwiktelang18@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
