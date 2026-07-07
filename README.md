@@ -1,58 +1,202 @@
 <div align="center">
+ 
+# Hi, I'm Satwik Telang 💫
 
-# Satwik Telang
-### Aspiring Software Engineer | AI & Machine Learning Enthusiast
+### Software Engineering Student | AI & Machine Learning Enthusiast | Full Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satwiktelang18/) 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satwiktelang18)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Software+Engineer+in+the+Making;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Always+Learning+Something+New!" />
 
-*Transforming complex data into intelligent, scalable software solutions.*
+<br>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satwiktelang18/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/satwiktelang18)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://your-portfolio.com)
+
+![](https://komarev.com/ghpvc/?username=satwiktelang18&style=for-the-badge)
 
 </div>
 
-## 🚀 About Me
-I am a Computer Science Engineering student dedicated to bridging the gap between theoretical AI research and practical, user-centric software applications. I thrive on solving complex algorithmic challenges and building robust back-end architectures.
+---
 
-*   **Core Competencies:** Data Structures & Algorithms (DSA), System Design, and Machine Learning.
-*   **Problem Solver:** Solved 250+ challenges on competitive programming platforms.
-*   **Current Focus:** Building production-ready AI pipelines and optimizing web application performance.
+# 👨‍💻 About Me
+
+🎓 Final Year - B.Tech Computer Science Engineering (AI & ML) 
+
+💡 Passionate about building scalable software and AI-powered applications that solve real-world problems.
+
+💻 Currently focusing on:
+
+- Data Structures & Algorithms
+- Full Stack Development
+- Machine Learning
+- Spring Boot
+- System Design
+- Backend Development
+
+🚀 I enjoy turning ideas into production-ready applications using modern technologies.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java |
-| **AI / ML** | Scikit-Learn, NumPy, Pandas, TensorFlow |
-| **Back-End** | Spring Boot, Flask, MySQL |
-| **Front-End** | React, HTML5, CSS3, JavaScript |
-| **Tools** | Git, Docker, Streamlit |
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,spring,flask,tensorflow" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
+</p>
+
+### Machine Learning
+
+- Scikit-Learn
+- Pandas
+- NumPy
+- TensorFlow
+- Matplotlib
 
 ---
 
-## 🏗 Featured Projects
+# 🚀 Featured Projects
 
-*(Replace these placeholders with your actual project links)*
+## FitForge 🏋️
 
-### FitForge
-> AI-powered fitness planning platform generating personalized workout and nutrition plans.
+AI-powered fitness platform generating personalized workout and nutrition plans based on user goals and preferences.
 
-### TweetSense 
-> Twitter Sentiment Analysis using Machine Learning
+**Tech Stack**
 
-### NexoraSpace
-> RAG-based AI assistant supporting PDFs, web search, vector search, and streaming responses.
+`React` `Spring Boot` `MySQL` `AI`
 
 ---
 
-### 🤝 Let's Connect
-*Seeking internship and entry-level Software Engineering opportunities.*
-**Open to discussions on AI innovation, back-end development, and complex system architecture.**
+## TweetSenseAI 🐦
 
-⚡ *Building. Learning. Improving.*
+Machine Learning based Twitter Sentiment Analysis system using NLP techniques including text preprocessing, TF-IDF vectorization, and sentiment classification.
+
+**Tech Stack**
+
+`Python` `Flask` `Scikit-Learn` `Pandas` `Streamlit`
+
+---
+
+## StockSense 📈
+
+Sector-wise stock growth prediction system using feature engineering, time-series analytics, and ensemble machine learning models.
+
+✔ Feature Engineering
+
+✔ XGBoost
+
+✔ Financial Analytics
+
+✔ 87% Prediction Accuracy
+
+---
+
+## NexoraSpace 📑
+
+Retrieval-Augmented Generation (RAG) AI Assistant capable of answering questions from PDFs, web search, and vector databases using LLMs.
+
+**Tech Stack**
+
+`Python`
+`LangChain`
+`Vector Database`
+`LLMs`
+
+---
+
+# 🏆 Achievements
+
+🏅 Solved **250+ DSA Problems**
+
+🎖 IIT Ropar × Masai School AI Certification
+
+💻 Built multiple Full Stack & AI/ML Projects
+
+📚 Continuously learning Software Engineering fundamentals
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=satwiktelang18&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwiktelang18&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satwiktelang18&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Satwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satwiktelang18&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=satwiktelang18&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
+
+---
+
+# Let's Connect 🤝🏻
+
+
+Feel free to connect! ✨
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/satwiktelang18/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/satwiktelang18">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Building scalable software, solving challenging problems, and continuously learning."
+
+⭐ If you like my work, consider starring my repositories!
 
 </div>
