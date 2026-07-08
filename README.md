@@ -177,8 +177,8 @@ Feel free to connect! ✨
 
 <div align="center">
 
-### ⭐ "Building scalable software, solving challenging problems, and continuously learning."
+### "Building scalable software, solving challenging problems, and continuously learning." 💪🏻
 
-⭐ If you like my work, consider starring my repositories!
+⭐ If you like my work, consider starring my repositories! ⭐️
 
 </div>
