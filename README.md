@@ -14,18 +14,19 @@
 
 # 👨‍💻 About Me
 
-🎓 Final Year - B.Tech Computer Science Engineering (AI & ML) 
+Final Year B.Tech CSE (AI & ML) 🎓
 
-💡 Passionate about building scalable software and AI-powered applications that solve real-world problems.
+Full Stack Developer 💻 
 
-💻 Currently focusing on:
+🌱 Currently learning
+• DSA
+• System Design
+• Spring Boot
 
-- Data Structures & Algorithms
-- Full Stack Development
-- Machine Learning
-- Spring Boot
-- System Design
-- Backend Development
+🚀 Interested in
+Backend Engineering
+AI Applications
+Scalable Systems
 
 🚀 I enjoy turning ideas into production-ready applications using modern technologies.
 
