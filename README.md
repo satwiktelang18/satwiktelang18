@@ -37,19 +37,13 @@ Scalable Systems
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql" />
 </p>
 
 ### Frameworks & Libraries
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,spring,flask,tensorflow" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Tools & Technologies
