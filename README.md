@@ -69,15 +69,13 @@
 
 # 🚀 Featured Projects
 
-## FitForge 🏋️
+## FinTrack 💸
 
-AI-powered fitness platform generating personalized workout and nutrition plans based on user goals and preferences.
+A full-stack personal finance platform with JWT-secured authentication, real-time expense analytics, and interactive dashboards built using Spring Boot and React.
 
 **Tech Stack**
 
-`React` `Spring Boot` `MySQL` `AI`
-
----
+`React` `Spring Boot` `JWT` `MySQL` `Tailwind CSS`
 
 ## TweetSenseAI 🐦
 
